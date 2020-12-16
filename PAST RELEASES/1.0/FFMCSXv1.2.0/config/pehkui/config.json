@@ -1,0 +1,11 @@
+{
+	"scaledFallDamage": true,
+	"scaledMotion": true,
+	"scaledReach": true,
+	"scaledItemDrops": true,
+	"scaledProjectiles": true,
+	"scaledExplosions": true,
+	"keepScaleOnRespawn": true,
+	"accurateNetherPortals": true,
+	"minimumCameraDepth": 0.001
+}
