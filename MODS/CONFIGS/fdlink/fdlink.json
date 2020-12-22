@@ -1,0 +1,68 @@
+{
+  "chatChannels": [
+    "330921667058728960"
+  ],
+  "logChannels": [],
+  "ignoreBots": true,
+  "activityUpdateInterval": 120,
+  "minecraftToDiscord": {
+    "general": {
+      "enableDebugLogs": false
+    },
+    "chatChannels": {
+      "commandPrefix": "-",
+      "allowDiscordCommands": false,
+      "serverStartingMessage": true,
+      "serverStartMessage": true,
+      "serverStopMessage": true,
+      "serverStoppingMessage": true,
+      "customChannelDescription": false,
+      "minecraftToDiscordTag": false,
+      "minecraftToDiscordDiscriminator": false,
+      "playerMessages": true,
+      "joinAndLeaveMessages": true,
+      "advancementMessages": true,
+      "challengeMessages": true,
+      "goalMessages": true,
+      "deathMessages": true,
+      "sendMeCommand": true,
+      "sendSayCommand": true,
+      "adminMessages": false,
+      "atATellRaw": false
+    },
+    "logChannels": {
+      "serverStartingMessage": true,
+      "serverStartMessage": true,
+      "serverStopMessage": true,
+      "serverStoppingMessage": true,
+      "customChannelDescription": false,
+      "minecraftToDiscordTag": false,
+      "minecraftToDiscordDiscriminator": false,
+      "playerMessages": false,
+      "joinAndLeaveMessages": true,
+      "advancementMessages": false,
+      "challengeMessages": false,
+      "goalMessages": false,
+      "deathMessages": true,
+      "sendMeCommand": true,
+      "sendSayCommand": true,
+      "adminMessages": true,
+      "atATellRaw": false
+    }
+  },
+  "discordToMinecraft": {
+    "pingLongVersion": false
+  },
+  "emojiMap": [
+    {
+      "name": "example_name",
+      "id": ":example_id:22222222"
+    },
+    {
+      "name": "example_name2",
+      "id": ":example_id2:22222222"
+    }
+  ],
+  "version": 4,
+  "token": "MTcxMTA0OTg2NDc2ODM4OTEz.VxMH7w.qQoBPJAnGK8K1UkADoXoIxQS1cg"
+}
